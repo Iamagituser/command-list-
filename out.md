@@ -7,7 +7,8 @@
     7  cd etc
     8  ls
     9  cd apt
-   10  ls
+  ''' 
+  10  ls
    11  clear
    12  nano sources.list
    13  clear
@@ -107,6 +108,7 @@
   107  exit
   108  ls
   109  clear
+  '''
   110  ls
   111  ls
   112  cd Documents
