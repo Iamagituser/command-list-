@@ -7,7 +7,7 @@
     7  cd etc
     8  ls
     9  cd apt
-  ''' 
+
   10  ls
    11  clear
    12  nano sources.list
